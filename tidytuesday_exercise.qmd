@@ -21,7 +21,7 @@ library(ggpmisc)
 knitr::opts_chunk$set(fig.width=10, fig.height=8) 
 ```
 
-# Data loading
+# Data loading 
 
 Follow the [TidyTuesday instructions for 2023-02-14](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-02-14/readme.md)
 
